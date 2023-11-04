@@ -9,7 +9,7 @@ Python, SQL, Machine Learning, Natural Language Processing, Deep Learning, Stati
 - Secondary School Education | Shivaji Vidyalay | 2012
 
 ## Work Experience
-#### Data Scientist @ ITC Infotech (_April 2021 - Present_)
+#### Data Scientist @ ( - Present_)
 - A professional with experience in Python, Data Science and Machine learning with expertise in Financial and Healthcare domain projects.
 - Able to investigate Data Visualization and summarization techniques conveying key findings.
 - Communicates findings and obstacles to team members to achieve best approach.
